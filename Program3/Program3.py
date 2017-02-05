@@ -5,7 +5,7 @@
 answerOne = 0
 answer = 0
 while not answerOne < 11:
-    answerOne = int(input("Please enter a number? "))
+    answerOne = int(input("Please enter a number (1-10)? "))
     answer = answerOne
 if answer == 10:
     for _ in range(0, 10):
