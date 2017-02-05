@@ -2,7 +2,7 @@
 # Explain what this program does
 #
 
-answerOne = 0
+answerOne = 20
 answer = 0
 while not answerOne < 11:
     answerOne = int(input("Please enter a number (1-10)? "))
