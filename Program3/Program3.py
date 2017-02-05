@@ -4,7 +4,7 @@
 
 answerOne = 20
 answer = 0
-while not answerOne < 11:
+while answerOne > 10:
     answerOne = int(input("Please enter a number (1-10)? "))
     answer = answerOne
 if answer == 10:
