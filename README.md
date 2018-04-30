@@ -13,3 +13,5 @@ All programs in here are simple programs.
 [Program 4](Program4/Program4.py)
 
 [Program 5](Program5/Program5.py)
+
+[Errored Program 1](ErroredProgram1/ErroredProgram1.py)
