@@ -4,7 +4,7 @@ All programs in here are simple programs.
 
 ## List of programs
 
-[Program 1](Program1/Program1.py)
+[Program 1](Program1/Program1.py) ([No Loop Version](Program1/Program1-NoLoops.py))
 
 [Program 2](Program2/Program2.py)
 
