@@ -7,19 +7,19 @@ action = input("Action (+, -, / or *)? ")
 numberTwo = int(input("Number? "))
 if action == "+":
     print()
-    print(numberOne + numberTwo)
+    print(numberOne, "+", numberTwo, "=", numberOne + numberTwo)
     print()
 elif action == "-":
     print()
-    print(numberOne - numberTwo)
+    print(numberOne, "-", numberTwo, "=", numberOne - numberTwo)
     print()
 elif action == "/":
     print()
-    print(numberOne / numberTwo)
+    print(numberOne, "/", numberTwo, "=", numberOne / numberTwo)
     print()
 elif action == "*":
     print()
-    print(numberOne * numberTwo)
+    print(numberOne, "*", numberTwo, "=", numberOne * numberTwo)
     print()
 else:
     print()
